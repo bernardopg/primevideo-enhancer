@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Prime Video Enhancer
 // @namespace    https://github.com/bernardopg
-// @version      1.0
+// @version      2.0
 // @description  Enhanced Prime Video experience with X-ray hiding, ad skipping, cursor management, and more
 // @author       bernardopg
 // @icon         https://www.primevideo.com/favicon.ico
 // @match        https://www.primevideo.com/*
 // @grant        none
+// @license      MIT
+// @updateURL    https://greasyfork.org/pt-BR/scripts/540762-prime-video-enhancer.user.js
+// @downloadURL  https://greasyfork.org/pt-BR/scripts/540762-prime-video-enhancer.user.js
 // ==/UserScript==
 
 (function () {
